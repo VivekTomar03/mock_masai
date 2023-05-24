@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "userName": "vivek",
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ],
+  "recipes": [
+    {
+      "title": "Apple Walnut Brownies",
+      "image": "https://spoonacular.com/recipeImages/632611-556x370.jpg",
+      "Sdesc": "Apple Walnut Brownies requires around 1 hour ",
+      "category": "desert",
+      "ingredients": [
+        "sugar ",
+        " floor",
+        " butter",
+        " etc"
+      ],
+      "instruction": "Apple Walnut Brownies requires around 1 hour and 15 minutes from start to finish. This dessert has 402 calories, 7g of protein, and 33g of fat per serving. ",
+      "id": 1
+    },
+    {
+      "title": "cheese brownies with Baileys",
+      "image": "https://spoonacular.com/recipeImages/644081-556x370.jpg",
+      "Sdesc": "Fudgy chocolate cream cheese brownies with Baileys takes approximately 45 minutes",
+      "category": "desert",
+      "ingredients": [
+        "cake",
+        "choclate",
+        "lavacoco",
+        "etc"
+      ],
+      "instruction": "Fudgy chocolate cream cheese brownies with Baileys takes approximately 45 minutes from beginning to end. This dessert has 586 calories, 7g of protein, and 34g of fat per serving. This recipe serves 8.",
+      "id": 2
+    },
+    {
+      "title": "Apple-Walnut Crisp",
+      "image": "https://spoonacular.com/recipeImages/632629-556x370.jpg",
+      "Sdesc": "Apple-Walnut Crisp requires roughly 45 minutes fr",
+      "category": "starter",
+      "ingredients": [
+        "cake",
+        "pista",
+        "kaju",
+        "oil",
+        "ect"
+      ],
+      "instruction": "Apple-Walnut Crisp requires roughly 45 minutes from start to finish. This recipe serves 4. Watching your figure? This lacto ovo vegetarian recipe has 1279 calories, 12g of protein, and 68g of fat per serving. ",
+      "id": 3
+    },
+    {
+      "title": "Almond Plum Cake ",
+      "image": "https://spoonacular.com/recipeImages/632169-556x370.jpg",
+      "Sdesc": "Almond Plum Cake with Creme Fraiche requires roughly 45 minutes",
+      "category": "starter",
+      "ingredients": [
+        "almod",
+        "kaju",
+        "oil",
+        "soya",
+        "sugar",
+        "pista",
+        "etc"
+      ],
+      "instruction": "Almond Plum Cake with Creme Fraiche requires roughly 45 minutes from start to finish. For $2.77 per serving, you get a dessert that serves 6. One serving contains 565 calories, 13g of protein, and 2",
+      "id": 4
+    },
+    {
+      "title": "Dulce De Leche",
+      "image": "https://spoonacular.com/recipeImages/641723-556x370.jpg",
+      "Sdesc": "Dulce De Leche could be just the gluten free and lacto ovo vegetarian recipe",
+      "category": "maincourse",
+      "ingredients": [
+        "soya",
+        "mrchi",
+        "oil",
+        "ghee",
+        "tez",
+        "masal",
+        "salt"
+      ],
+      "instruction": "Dulce De Leche could be just the gluten free and lacto ovo vegetarian recipe you've been looking for. This recipe makes 4 servings with 434 calories, 8g of",
+      "id": 5
+    },
+    {
+      "title": "Caprese Salad",
+      "image": "https://spoonacular.com/recipeImages/657537-556x370.jpg",
+      "Sdesc": "Need a gluten free, lacto ovo vegetarian, and primal main course? ",
+      "category": "maincourse",
+      "ingredients": [
+        "salad",
+        "onion",
+        "groot",
+        "carrot",
+        "etc"
+      ],
+      "instruction": "Need a gluten free, lacto ovo vegetarian, and primal main course? Quick and Easy Caprese Salad could be an awesome recipe to try. One serving contains 350 calories, 15g of protein, and 27g of fat. For $1.97 per serving, this recipe covers 20% of your daily requirements of vitamins and minerals. This",
+      "id": 6
+    },
+    {
+      "title": "Mexi-Chicken Roll Ups",
+      "image": "https://spoonacular.com/recipeImages/651546-556x370.jpg",
+      "Sdesc": "Mexi-Chicken Roll Ups requires roughly 45 minutes",
+      "category": "maincourse",
+      "ingredients": [
+        "soya",
+        "chiken",
+        "daal",
+        "bati",
+        "churama",
+        "etc"
+      ],
+      "instruction": "Mexi-Chicken Roll Ups requires roughly 45 minutes from start to finish. This hor d'oeuvre has 525 calories, 55g of protein, and 23g of fat per serving. This ",
+      "id": 7
+    }
+  ]
+}
