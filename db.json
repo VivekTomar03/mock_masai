@@ -23,7 +23,7 @@
 	  "experience": 10,
 	  "location": "Los Angeles",
 	  "date": "2023-04-05T12:00:00.000Z",
-		"slots": 2,
+		"slot": 2,
 	  "fee": 150,
 	      "id":1
 	},
@@ -34,7 +34,7 @@
 	  "experience": 5,
 	  "location": "Chicago",
 	  "date": "2023-04-06T09:30:00.000Z",
-		"slots": 1,
+		"slot": 1,
 	  "fee": 100,
 		"id":2
 	},
