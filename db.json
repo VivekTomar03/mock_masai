@@ -1,10 +1,11 @@
 {
   "users": [
     {
-      "userName": "vivek",
+      "username": "vivek",
       "email": "a@gmail.com",
       "password": "12345",
-      "id": 1
+      "id": 1,
+     "isDr": "User",
     }
   ],
   "appointments":[
