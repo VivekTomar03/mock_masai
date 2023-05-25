@@ -18,7 +18,7 @@
   "appointments":[
       {
 	  "name": "Jane Doe",
-	  "image": "https://example.com/doctor-image.jpg",
+	  "image": "https://max-website20-images.s3.ap-south-1.amazonaws.com/Dr_Puneet_sq_3be6907e0c.jpg",
 	  "specialization": "Dermatologist",
 	  "experience": 10,
 	  "location": "Los Angeles",
@@ -29,7 +29,7 @@
 	},
 	{
 	  "name": "Mark Johnson",
-	  "image": "https://example.com/doctor-image.jpg",
+	  "image": "https://max-website20-images.s3.ap-south-1.amazonaws.com/Dr_Puneet_sq_3be6907e0c.jpg",
 	  "specialization": "Pediatrician",
 	  "experience": 5,
 	  "location": "Chicago",
@@ -37,6 +37,50 @@
 		"slots": 1,
 	  "fee": 100,
 		"id":2
-	}
+	},
+{
+"name": "vivek",
+"image": "https://img.freepik.com/free-photo/attractive-young-male-nutriologist-lab-coat-smiling-against-white-background_662251-2960.jpg",
+"specialization": "Dermatologist",
+"experience": 5,
+"location": "up",
+"date": "2023-05-26",
+"slot": 7,
+"fee": 500,
+"id": 3
+},
+{
+"name": "vikram bhatta",
+"image": "https://www.kauveryhospital.com/doctorimage/recent/Dr-Karuppiah-R2020-09-18%2005:17:23am.jpg",
+"specialization": "Pediatrician",
+"experience": 6,
+"location": "up",
+"date": "2023-05-26",
+"slot": 9,
+"fee": 50,
+"id": 4
+},
+{
+"name": "khushi dr",
+"image": "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+"specialization": "Pediatrician",
+"experience": 6,
+"location": "up",
+"date": "2023-05-26",
+"slot": 9,
+"fee": 5009,
+"id": 5
+},
+{
+"name": "nisha",
+"image": "https://images.unsplash.com/photo-1638202993928-7267aad84c31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+"specialization": "Psychiatrist",
+"experience": 6,
+"location": "up",
+"date": "2023-05-26",
+"slot": 7,
+"fee": 100,
+"id": 6
+}
   ]
 }
