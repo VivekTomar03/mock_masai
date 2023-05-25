@@ -6,6 +6,13 @@
       "password": "12345",
       "id": 1,
      "isDr": "User"
+    },
+	  {
+      "username": "vivek",
+      "email": "ab@gmail.com",
+      "password": "12345",
+      "id": 2,
+     "isDr": "Doctor"
     }
   ],
   "appointments":[
